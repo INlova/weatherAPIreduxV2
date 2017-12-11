@@ -1,0 +1,18 @@
+BUILD OUT GEOLOCATION FUNCTION
+
+Grab long and lat
+
+using log and lat call local weather api
+
+basic math in a clickable form (?hover) to swap afrom C to F and vversa
+
+
+***update background images - further segmentation required.
+
+
+
+Every 10F or so?? 
+
+
+
+Change image source to something classy, consider employer audience

@@ -1,0 +1,39 @@
+.well {
+	opacity: 0.75;
+}
+.txt {
+	color: rgb(237, 67, 55);
+	font-size: 30px;
+}
+.row {
+	color: rgb(0, 114, 114);
+	font-family: Stencil, sans-serif;
+	font-size: 20px;
+}
+.bk {
+	margin-top: 20px;
+	background: no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.title {
+	font-family: Stencil, sans-serif;
+	font-size: 40px;
+	padding-right: 50px;
+	padding-left: 30px;
+	line-height: 1.45;
+	position: relative;
+	color: white;
+}
+#temp, #tempScale {
+	font-family: Stencil, sans-serif;
+	text-shadow: 3px 4px 5px blue;
+	font-size: 60px;
+	font-weight: bold;
+	color: #FF0000;
+}
+#tempScale:hover {
+	color: blue;
+}
